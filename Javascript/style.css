@@ -1,0 +1,20 @@
+.rojo {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    cursor: pointer;
+}
+
+.verde {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    cursor: pointer;
+}
+
+.azul {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    cursor: pointer;
+}
